@@ -1,2 +1,3 @@
 Hi There
-This is a feature
+This is a new feature
+Hi this is a conflict
