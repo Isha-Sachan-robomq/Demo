@@ -1,3 +1,4 @@
 Hi There
 This is a new feature
 Hi this is a conflict
+Some more line
